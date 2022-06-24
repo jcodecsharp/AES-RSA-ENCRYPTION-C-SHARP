@@ -1,0 +1,13 @@
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\obj\Debug\Cop4931Project.Form1.resources
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\obj\Debug\Cop4931Project.Properties.Resources.resources
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\obj\Debug\Cop4931Project.csproj.GenerateResource.cache
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\obj\Debug\Cop4931Project.csproj.CoreCompileInputs.cache
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\bin\Debug\Cop4931Project.exe.config
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\bin\Debug\Cop4931Project.exe
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\bin\Debug\Cop4931Project.pdb
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\obj\Debug\Cop4931Project.exe
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\obj\Debug\Cop4931Project.pdb
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\obj\Debug\Cop4931Project.csproj.CopyComplete
+C:\Users\trent\source\repos\Cop4931Project\Cop4931Project\obj\Debug\Cop4931Project.csproj.AssemblyReference.cache
